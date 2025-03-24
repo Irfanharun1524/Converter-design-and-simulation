@@ -1,3 +1,5 @@
+Name: Irfan H 
+Reg No: 212224040122
 # Converter-design-and-simulation
 
 # Aim
@@ -101,7 +103,11 @@ The AC power supply from mains first gets converted into and unregulated DC and 
 
 # Output
 
+![EX 1](https://github.com/user-attachments/assets/2fe8f44d-5e12-410a-bade-8bf4f3418379)
 
+![EX 1(2)](https://github.com/user-attachments/assets/acb40d4f-42fe-418b-b3f0-041eacaa4ae2)
+
+![EX 1(3)](https://github.com/user-attachments/assets/95a1b696-a730-4176-881b-b4ca4658842a)
 
 
 
